@@ -1,3 +1,3 @@
-# linux
-# learn Shell
-## git changes
+ linux
+ learn Shell
+ git changes
