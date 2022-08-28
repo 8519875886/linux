@@ -1,3 +1,3 @@
 echo hello
-echo -e helloworld
+echo -e "hello\nworld"
 
