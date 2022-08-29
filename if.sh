@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+!/usr/bin/bash
 if [ abc == ABC ]
 then
  echo "both are same"
