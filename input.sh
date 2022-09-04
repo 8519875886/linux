@@ -1,5 +1,5 @@
 
-if [$# -lt 2 ];then
+if [ $# -lt 2 ];then
   echo "input missing"
   exit 1
 fi
