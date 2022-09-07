@@ -1,0 +1,1 @@
+echo "valie of variable c=$c"
